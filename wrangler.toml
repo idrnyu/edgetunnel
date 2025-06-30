@@ -1,3 +1,5 @@
-name = "v20250626"
+# name = "v20250626"
+# wrangler.toml
+name = 'clash'
 main = "_worker.js"
 compatibility_date = "2025-06-26"
